@@ -1,5 +1,5 @@
-# Hi there, I'm [Tyler Anderson](https://tylerjanderson.me)!  
-### I'm a Front End Developer
+# Hi there, my name is [Tyler Anderson](https://tylerjanderson.me)!  
+### I'm a Front End Developer!
 
 ### Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
