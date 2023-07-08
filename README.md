@@ -1,4 +1,4 @@
-# Hi there, my name is [Tyler Anderson](https://tylerjanderson.me)!  
+# Hi there! 
 
 
 ### Tech Stack
