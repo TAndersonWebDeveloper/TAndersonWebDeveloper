@@ -1,6 +1,6 @@
 # Hi there, I'm Tyler Anderson 👋
 
-
+I'm a front-end developer
 
 
 #### Tech Stack
