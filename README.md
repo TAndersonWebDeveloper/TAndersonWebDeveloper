@@ -17,7 +17,8 @@ I'm a front-end developer
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![ReactQuery](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white)
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-### 
+### Currently Working On...
+[The Wild Oasis](https://github.com/TAndersonWebDeveloper/the-wild-oasis)
 <!--
 ### Currently Learning
 ### Find me on:
