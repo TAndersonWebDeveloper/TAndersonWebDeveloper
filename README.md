@@ -18,7 +18,7 @@ I'm a front-end developer
 ![ReactQuery](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white)
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ### Currently Working On...
-[The Wild Oasis](https://github.com/TAndersonWebDeveloper/the-wild-oasis)
+[Job Tracker](https://github.com/TAndersonWebDeveloper/job-tracker)
 <!--
 ### Currently Learning
 ### Find me on:
