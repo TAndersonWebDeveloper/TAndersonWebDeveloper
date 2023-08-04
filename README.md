@@ -1,4 +1,4 @@
-# Hi there, I'm Tyler Anderson 👋
+# Hi there, I'm Tyler Anderson (he/him) 👋
 
 Frontend Engineer highly skilled in frontend programming languages and libraries: React, JavaScript, TypeScript, HTML, CSS, Jest, React Testing Library, TailwindCSS, Styled-Components, CSS preprocessors, Redux & Redux Toolkit, React Query, 
 Proficient in backend technologies: NodeJs, Express, MongoDB, Microsoft SQL Server, Postgres Firebase, Supabase, Heroku.
