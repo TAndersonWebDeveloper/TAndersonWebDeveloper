@@ -3,7 +3,7 @@
 Frontend Engineer highly skilled in frontend programming languages and libraries: React, JavaScript, TypeScript, HTML, CSS, Jest, React Testing Library, TailwindCSS, Styled-Components, CSS preprocessors, Redux & Redux Toolkit, React Query, 
 Proficient in backend technologies: NodeJs, Express, MongoDB, Microsoft SQL Server, Postgres Firebase, Supabase, Heroku.
 Experience in the full application life cycle, planning, architecture, implementation, testing, release, etc.
-
+Committed to delivering responsibe, acessible and engaing user interfaces.
 
 #### Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
